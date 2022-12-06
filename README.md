@@ -1,7 +1,10 @@
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=1730933627&count_private=true&show_icons=true" />
-  <div style="width:1px;height:1vh;"></div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1730933627&layout=compact" />
+  <div style="margin-bottom:1vh;">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=1730933627&count_private=true&show_icons=true" />
+  </div>
+  <div>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1730933627&layout=compact" />
+  </div>
 </div>
 
 
