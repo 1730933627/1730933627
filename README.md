@@ -1,7 +1,7 @@
-<a href="#">
-  <img style="margin-bottom:1vh;" align="right" src="https://github-readme-stats.vercel.app/api?username=1730933627&count_private=true&show_icons=true" />
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=1730933627&count_private=true&show_icons=true" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1730933627&layout=compact" />
-</a>
+</div>
 
 
 🍓 **关于我**
