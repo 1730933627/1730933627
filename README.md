@@ -1,7 +1,6 @@
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=1730933627&count_private=true&show_icons=true" />
-  ** **
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1730933627&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1730933627&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1730933627&layout=compact" />
 </a>
 
 
