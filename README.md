@@ -1,11 +1,8 @@
-<div>
-  <div style="margin-bottom:1vh;">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=1730933627&count_private=true&show_icons=true" />
-  </div>
-  <div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1730933627&layout=compact" />
-  </div>
-</div>
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=1730933627&count_private=true&show_icons=true" />
+  ** **
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1730933627&layout=compact" />
+</a>
 
 
 🍓 **关于我**
