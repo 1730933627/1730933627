@@ -18,8 +18,3 @@
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-
-
-🎄 **其他**
-
-  <img width="400" height="140" src="https://card.yuy1n.io/card/76561198255244492/light,badge" />
